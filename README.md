@@ -1,7 +1,8 @@
 # 🌍 **ECO-WASTE MANAGEMENT SYSTEM**
 
 > **A premium Full-Stack solution for sustainable waste management, bridging the gap between modern technology and environmental responsibility.**
-
+## 🔗 **Quick Links**
+### [🚀 View Live Demo](https://eco-waste.poolanikhila2604.workers.dev/)
 ---
 
 ## 🚀 **CORE CONCEPTS & ARCHITECTURE**
